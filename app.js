@@ -7,6 +7,4 @@ app.get('/', function(req, res, next){
   res.send(__dirname, 'public/startbootstrap-agency-gh-pages' , 'index.html');
 });
 
-app.listen(3000, function () {
-
-})
+app.listen(process.env.PORT || 5000);
