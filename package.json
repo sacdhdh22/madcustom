@@ -1,0 +1,16 @@
+{
+  "name": "madcustoms",
+  "version": "4.5.0",
+  "description": "zummah advertisement stuff",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "author": "",
+
+  "license": "ISC",
+  "dependencies": {
+  }
+
+}
